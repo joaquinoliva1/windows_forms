@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joacc\\Escritorio\\tp_inmobiliaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{408F0D89-D3E8-48E4-AB66-2DA0CBE6A218}|pryInmobiliaria\\pryInmobiliaria.csproj|c:\\users\\joacc\\escritorio\\tp_inmobiliaria\\pryinmobiliaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{408F0D89-D3E8-48E4-AB66-2DA0CBE6A218}|pryInmobiliaria\\pryInmobiliaria.csproj|solutionrelative:pryinmobiliaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408F0D89-D3E8-48E4-AB66-2DA0CBE6A218}|pryInmobiliaria\\pryInmobiliaria.csproj|C:\\Users\\joacc\\Escritorio\\tp_inmobiliaria\\pryinmobiliaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{408F0D89-D3E8-48E4-AB66-2DA0CBE6A218}|pryInmobiliaria\\pryInmobiliaria.csproj|solutionrelative:pryinmobiliaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\tp_inmobiliaria\\pryInmobiliaria\\Form1.cs",
+              "RelativeDocumentMoniker": "pryInmobiliaria\\Form1.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\tp_inmobiliaria\\pryInmobiliaria\\Form1.cs",
+              "RelativeToolTip": "pryInmobiliaria\\Form1.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAgwHsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:24:24.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\tp_inmobiliaria\\pryInmobiliaria\\Form1.cs",
+              "RelativeDocumentMoniker": "pryInmobiliaria\\Form1.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\pryInmobiliaria\\pryInmobiliaria\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\pryInmobiliaria\\pryInmobiliaria\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:31:51.054Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

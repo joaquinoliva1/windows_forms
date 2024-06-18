@@ -1,0 +1,10 @@
+C:\Users\joacc\Documentos\Laboratorio de Programación\PryPrimero\PryPrimero\PryPrimero\bin\Debug\PryPrimero.exe.config
+C:\Users\joacc\Documentos\Laboratorio de Programación\PryPrimero\PryPrimero\PryPrimero\bin\Debug\PryPrimero.exe
+C:\Users\joacc\Documentos\Laboratorio de Programación\PryPrimero\PryPrimero\PryPrimero\bin\Debug\PryPrimero.pdb
+C:\Users\joacc\Documentos\Laboratorio de Programación\PryPrimero\PryPrimero\PryPrimero\obj\Debug\PryPrimero.csproj.AssemblyReference.cache
+C:\Users\joacc\Documentos\Laboratorio de Programación\PryPrimero\PryPrimero\PryPrimero\obj\Debug\PryPrimero.FrmCalculadora.resources
+C:\Users\joacc\Documentos\Laboratorio de Programación\PryPrimero\PryPrimero\PryPrimero\obj\Debug\PryPrimero.Properties.Resources.resources
+C:\Users\joacc\Documentos\Laboratorio de Programación\PryPrimero\PryPrimero\PryPrimero\obj\Debug\PryPrimero.csproj.GenerateResource.cache
+C:\Users\joacc\Documentos\Laboratorio de Programación\PryPrimero\PryPrimero\PryPrimero\obj\Debug\PryPrimero.csproj.CoreCompileInputs.cache
+C:\Users\joacc\Documentos\Laboratorio de Programación\PryPrimero\PryPrimero\PryPrimero\obj\Debug\PryPrimero.exe
+C:\Users\joacc\Documentos\Laboratorio de Programación\PryPrimero\PryPrimero\PryPrimero\obj\Debug\PryPrimero.pdb

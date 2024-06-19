@@ -1,3 +1,4 @@
 Proyectos académicos realizados con la interfaz de programación Windows Forms (Microsoft .NET Framework) en C#.
 
-Recomendación: clonar repositorio. En caso de descargar este repositorio como .zip, extraer carpeta ante la necesidad de ejecutar programas.
+Recomendación: clonar repositorio.
+Visualización de código: archivos .sln (proyecto de Visual Studio)

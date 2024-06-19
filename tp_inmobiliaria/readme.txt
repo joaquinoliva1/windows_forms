@@ -1,5 +1,4 @@
-** Extraer .zip y ejecutar .exe
-** Para visualizar código ejecutar .sln
+Trabajo práctico: inmobiliaria
 
 Descripción: sistema que calcula los gastos en la compra de un departamento, incluyendo opciones que hacen a la variabilidad del precio total. Incluye una grilla donde se agregan los departamentos a comprar, la descripción de las cargas impositivas, entre otros detalles.
 

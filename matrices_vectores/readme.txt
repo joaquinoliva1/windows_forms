@@ -1,7 +1,6 @@
 Matrices y vectores
 
-** Extraer .zip y ejecutar .exe
-** Para visualizar código ejecutar .sln
+*** IMPORTANTE *** Ejecutar desde la ruta "matrices_vectores\PryTiendaDeRopa\bin\Debug\net8.0-windows\PryTiendaDeRopa.exe".
 
 Descripción: sistema de informes de ventas condicionados según botones de opción.
 
